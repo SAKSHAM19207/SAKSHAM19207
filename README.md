@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a second-year CSE student with a strong academic record (CGPA: 9.2).  
+I am a second-year CSE student with a strong academic record (CGPA: 9.06).  
 Currently focusing on building solid foundations in **Data Structures & Algorithms** and improving my **problem-solving skills** using Java.
 
 I enjoy learning core computer science concepts and applying them through practice, projects, and hackathons.
